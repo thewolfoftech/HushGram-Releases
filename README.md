@@ -1,1 +1,1 @@
-# FeurStagram Releases
+# HushGram Releases
